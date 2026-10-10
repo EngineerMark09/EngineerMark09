@@ -4,43 +4,20 @@
   <style>
     text{font-family:'JetBrains Mono','SF Mono',Consolas,'Liberation Mono',monospace;font-size:17px;fill:#E8ECEE}
     .m{fill:#8B949A}.a{fill:#FF6B4A}.h{font-size:13px}
-    .cur{animation:blink 1.1s steps(1) infinite}
-    .still{display:none}
+    .l{animation:in .45s ease-out backwards}
+    .c{animation:blink 1.1s steps(1) infinite}
+    @keyframes in{from{opacity:0;transform:translateY(5px)}}
     @keyframes blink{50%{opacity:0}}
-    @media (prefers-reduced-motion:reduce){.cur{animation:none}.typed{display:none}.still{display:block}}
+    @media (prefers-reduced-motion:reduce){.l,.c{animation:none}}
   </style>
-  <defs>
-    <clipPath id="c0"><rect x="22" y="66" width="0" height="26"><animate attributeName="width" calcMode="discrete" values="23.4;33.6;43.8;54;64.2;74.4;84.6" dur="0.42s" begin="0.5s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c1"><rect x="22" y="92" width="0" height="26"><animate attributeName="width" calcMode="discrete" values="3;13.2;23.4;33.6;43.8;54;64.2;74.4;84.6;94.8;105;115.2;125.4;135.6;145.8;156;166.2;176.4;186.6;196.8;207;217.2;227.4;237.6;247.8;258;268.2;278.4;288.6;298.8;309;319.2;329.4;339.6;349.8;360;370.2;380.4;390.6;400.8;411;421.2;431.4;441.6;451.8;462;472.2;482.4;492.6;502.8;513;523.2;533.4;543.6;553.8;564" dur="0.66s" begin="1.17s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c2"><rect x="22" y="134" width="0" height="26"><animate attributeName="width" calcMode="discrete" values="23.4;33.6;43.8;54;64.2;74.4" dur="0.35s" begin="2.13s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c3"><rect x="22" y="160" width="0" height="26"><animate attributeName="width" calcMode="discrete" values="3;13.2;23.4;33.6;43.8;54;64.2;74.4;84.6;94.8;105;115.2;125.4;135.6;145.8;156;166.2;176.4;186.6;196.8;207;217.2;227.4;237.6;247.8;258;268.2;278.4;288.6;298.8;309;319.2;329.4;339.6;349.8;360;370.2;380.4;390.6;400.8;411;421.2;431.4;441.6;451.8;462;472.2;482.4" dur="0.56s" begin="2.73s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c4"><rect x="22" y="202" width="0" height="26"><animate attributeName="width" calcMode="discrete" values="23.4;33.6;43.8;54;64.2;74.4;84.6" dur="0.42s" begin="3.59s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c5"><rect x="22" y="228" width="0" height="26"><animate attributeName="width" calcMode="discrete" values="3;13.2;23.4;33.6;43.8;54;64.2;74.4;84.6;94.8;105;115.2;125.4;135.6;145.8;156;166.2;176.4;186.6;196.8;207;217.2;227.4;237.6;247.8;258;268.2;278.4;288.6;298.8;309;319.2;329.4;339.6;349.8;360;370.2;380.4;390.6;400.8;411;421.2;431.4;441.6;451.8;462;472.2;482.4;492.6;502.8;513" dur="0.6s" begin="4.26s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c6"><rect x="22" y="270" width="0" height="26"><set attributeName="width" to="23.4" begin="5.16s" fill="freeze"/></rect></clipPath>
-  </defs>
   <rect x=".5" y=".5" width="799" height="289" rx="2" fill="#0E1011" stroke="#2B3033"/>
   <text class="m h" x="24" y="29">markmingala.dev ~ terminal</text>
   <line x1="0" y1="44" x2="800" y2="44" stroke="#2B3033"/>
-  <g class="typed">
-    <g clip-path="url(#c0)"><text x="24" y="84" textLength="81.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> whoami</text></g>
-    <g clip-path="url(#c1)"><text x="24" y="110" textLength="561" lengthAdjust="spacing" xml:space="preserve">Mark Angelo Mingala. Full-stack developer, Philippines.</text></g>
-    <g clip-path="url(#c2)"><text x="24" y="152" textLength="71.4" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> stack</text></g>
-    <g clip-path="url(#c3)"><text x="24" y="178" textLength="479.4" lengthAdjust="spacing" xml:space="preserve">Laravel · PHP · MySQL · JavaScript · TypeScript</text></g>
-    <g clip-path="url(#c4)"><text x="24" y="220" textLength="81.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> status</text></g>
-    <g clip-path="url(#c5)"><text x="24" y="246" textLength="510" lengthAdjust="spacing" xml:space="preserve">Open to full-time remote roles. I work your hours.</text></g>
-    <g clip-path="url(#c6)"><text x="24" y="288" textLength="20.4" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> </text></g>
-  </g>
-  <g class="still">
-    <text x="24" y="84" textLength="81.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> whoami</text>
-    <text x="24" y="110" textLength="561" lengthAdjust="spacing" xml:space="preserve">Mark Angelo Mingala. Full-stack developer, Philippines.</text>
-    <text x="24" y="152" textLength="71.4" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> stack</text>
-    <text x="24" y="178" textLength="479.4" lengthAdjust="spacing" xml:space="preserve">Laravel · PHP · MySQL · JavaScript · TypeScript</text>
-    <text x="24" y="220" textLength="81.6" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> status</text>
-    <text x="24" y="246" textLength="510" lengthAdjust="spacing" xml:space="preserve">Open to full-time remote roles. I work your hours.</text>
-    <text x="24" y="288" textLength="20.4" lengthAdjust="spacing" xml:space="preserve"><tspan class="a">$</tspan> </text>
-  </g>
-  <g class="cur"><rect width="9.18" height="19" y="70" x="24" fill="#FF6B4A">
-    <animate attributeName="x" calcMode="discrete" keyTimes="0;0.1;0.11;0.12;0.14;0.15;0.16;0.18;0.22;0.23;0.23;0.23;0.23;0.24;0.24;0.24;0.24;0.25;0.25;0.25;0.25;0.25;0.26;0.26;0.26;0.26;0.27;0.27;0.27;0.27;0.28;0.28;0.28;0.28;0.28;0.29;0.29;0.29;0.29;0.3;0.3;0.3;0.3;0.3;0.31;0.31;0.31;0.31;0.32;0.32;0.32;0.32;0.33;0.33;0.33;0.33;0.33;0.34;0.34;0.34;0.34;0.35;0.35;0.35;0.41;0.42;0.44;0.45;0.46;0.48;0.52;0.53;0.53;0.53;0.53;0.54;0.54;0.54;0.54;0.54;0.55;0.55;0.55;0.55;0.56;0.56;0.56;0.56;0.57;0.57;0.57;0.57;0.57;0.58;0.58;0.58;0.58;0.59;0.59;0.59;0.59;0.59;0.6;0.6;0.6;0.6;0.61;0.61;0.61;0.61;0.62;0.62;0.62;0.62;0.62;0.63;0.63;0.63;0.69;0.7;0.72;0.73;0.74;0.76;0.77;0.82;0.82;0.82;0.82;0.83;0.83;0.83;0.83;0.84;0.84;0.84;0.84;0.85;0.85;0.85;0.85;0.85;0.86;0.86;0.86;0.86;0.87;0.87;0.87;0.87;0.88;0.88;0.88;0.88;0.88;0.89;0.89;0.89;0.89;0.9;0.9;0.9;0.9;0.91;0.91;0.91;0.91;0.91;0.92;0.92;0.92;0.92;0.93;0.93;0.93;0.93;1" values="24;44.4;54.6;64.8;75;85.2;95.4;105.6;24;34.2;44.4;54.6;64.8;75;85.2;95.4;105.6;115.8;126;136.2;146.4;156.6;166.8;177;187.2;197.4;207.6;217.8;228;238.2;248.4;258.6;268.8;279;289.2;299.4;309.6;319.8;330;340.2;350.4;360.6;370.8;381;391.2;401.4;411.6;421.8;432;442.2;452.4;462.6;472.8;483;493.2;503.4;513.6;523.8;534;544.2;554.4;564.6;574.8;585;44.4;54.6;64.8;75;85.2;95.4;24;34.2;44.4;54.6;64.8;75;85.2;95.4;105.6;115.8;126;136.2;146.4;156.6;166.8;177;187.2;197.4;207.6;217.8;228;238.2;248.4;258.6;268.8;279;289.2;299.4;309.6;319.8;330;340.2;350.4;360.6;370.8;381;391.2;401.4;411.6;421.8;432;442.2;452.4;462.6;472.8;483;493.2;503.4;44.4;54.6;64.8;75;85.2;95.4;105.6;24;34.2;44.4;54.6;64.8;75;85.2;95.4;105.6;115.8;126;136.2;146.4;156.6;166.8;177;187.2;197.4;207.6;217.8;228;238.2;248.4;258.6;268.8;279;289.2;299.4;309.6;319.8;330;340.2;350.4;360.6;370.8;381;391.2;401.4;411.6;421.8;432;442.2;452.4;462.6;472.8;483;493.2;503.4;513.6;523.8;534;44.4" dur="5.21s" fill="freeze"/>
-    <animate attributeName="y" calcMode="discrete" keyTimes="0;0.1;0.11;0.12;0.14;0.15;0.16;0.18;0.22;0.23;0.23;0.23;0.23;0.24;0.24;0.24;0.24;0.25;0.25;0.25;0.25;0.25;0.26;0.26;0.26;0.26;0.27;0.27;0.27;0.27;0.28;0.28;0.28;0.28;0.28;0.29;0.29;0.29;0.29;0.3;0.3;0.3;0.3;0.3;0.31;0.31;0.31;0.31;0.32;0.32;0.32;0.32;0.33;0.33;0.33;0.33;0.33;0.34;0.34;0.34;0.34;0.35;0.35;0.35;0.41;0.42;0.44;0.45;0.46;0.48;0.52;0.53;0.53;0.53;0.53;0.54;0.54;0.54;0.54;0.54;0.55;0.55;0.55;0.55;0.56;0.56;0.56;0.56;0.57;0.57;0.57;0.57;0.57;0.58;0.58;0.58;0.58;0.59;0.59;0.59;0.59;0.59;0.6;0.6;0.6;0.6;0.61;0.61;0.61;0.61;0.62;0.62;0.62;0.62;0.62;0.63;0.63;0.63;0.69;0.7;0.72;0.73;0.74;0.76;0.77;0.82;0.82;0.82;0.82;0.83;0.83;0.83;0.83;0.84;0.84;0.84;0.84;0.85;0.85;0.85;0.85;0.85;0.86;0.86;0.86;0.86;0.87;0.87;0.87;0.87;0.88;0.88;0.88;0.88;0.88;0.89;0.89;0.89;0.89;0.9;0.9;0.9;0.9;0.91;0.91;0.91;0.91;0.91;0.92;0.92;0.92;0.92;0.93;0.93;0.93;0.93;1" values="70;70;70;70;70;70;70;70;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;96;138;138;138;138;138;138;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;164;206;206;206;206;206;206;206;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;232;274" dur="5.21s" fill="freeze"/>
-  </rect></g>
+  <text class="l" x="24" y="84" style="animation-delay:.2s"><tspan class="a">$</tspan> whoami</text>
+  <text class="l" x="24" y="110" style="animation-delay:.7s">Mark Angelo Mingala. Full-stack developer, Philippines.</text>
+  <text class="l" x="24" y="152" style="animation-delay:1.4s"><tspan class="a">$</tspan> stack</text>
+  <text class="l" x="24" y="178" style="animation-delay:1.9s">Laravel · PHP · MySQL · JavaScript · TypeScript</text>
+  <text class="l" x="24" y="220" style="animation-delay:2.6s"><tspan class="a">$</tspan> status</text>
+  <text class="l" x="24" y="246" style="animation-delay:3.1s">Open to full-time remote roles. I work your hours.</text>
+  <text class="l" x="24" y="274" style="animation-delay:3.6s"><tspan class="a">$</tspan> <tspan class="c a">▌</tspan></text>
 </svg>
