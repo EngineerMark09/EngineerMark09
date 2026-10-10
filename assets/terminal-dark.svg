@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 290" width="800" role="img" aria-labelledby="t d">
-  <title id="t">Terminal: Mark Mingala</title>
-  <desc id="d">whoami: Mark Mingala, full-stack developer in the Philippines. stack: Laravel, PHP, MySQL, JavaScript, TypeScript. status: open to full-time remote roles, works the client's hours.</desc>
+  <title id="t">Terminal: Mark Angelo Mingala</title>
+  <desc id="d">whoami: Mark Angelo Mingala, full-stack developer in the Philippines. stack: Laravel, PHP, MySQL, JavaScript, TypeScript. status: open to full-time remote roles, works the client's hours.</desc>
   <style>
     text{font-family:'JetBrains Mono','SF Mono',Consolas,'Liberation Mono',monospace;font-size:17px;fill:#E8ECEE}
     .m{fill:#8B949A}.a{fill:#FF6B4A}.h{font-size:13px}
@@ -14,7 +14,7 @@
   <text class="m h" x="24" y="29">markmingala.dev ~ terminal</text>
   <line x1="0" y1="44" x2="800" y2="44" stroke="#2B3033"/>
   <text class="l" x="24" y="84" style="animation-delay:.2s"><tspan class="a">$</tspan> whoami</text>
-  <text class="l" x="24" y="110" style="animation-delay:.7s">Mark Mingala. Full-stack developer, Philippines.</text>
+  <text class="l" x="24" y="110" style="animation-delay:.7s">Mark Angelo Mingala. Full-stack developer, Philippines.</text>
   <text class="l" x="24" y="152" style="animation-delay:1.4s"><tspan class="a">$</tspan> stack</text>
   <text class="l" x="24" y="178" style="animation-delay:1.9s">Laravel · PHP · MySQL · JavaScript · TypeScript</text>
   <text class="l" x="24" y="220" style="animation-delay:2.6s"><tspan class="a">$</tspan> status</text>

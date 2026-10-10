@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-    <img src="assets/terminal-light.svg" alt="Terminal: Mark Mingala, full-stack developer in the Philippines. Laravel, PHP, MySQL, JavaScript, TypeScript. Open to full-time remote roles." width="800">
+    <img src="assets/terminal-light.svg" alt="Terminal: Mark Angelo Mingala, full-stack developer in the Philippines. Laravel, PHP, MySQL, JavaScript, TypeScript. Open to full-time remote roles." width="800">
   </picture>
 </div>
 
