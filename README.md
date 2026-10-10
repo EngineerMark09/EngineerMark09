@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-    <img src="assets/terminal-light.svg" alt="Terminal: Mark Mingala, full-stack developer in the Philippines. Laravel, PHP, MySQL, JavaScript. Open to full-time remote roles." width="800">
+    <img src="assets/terminal-light.svg" alt="Terminal: Mark Mingala, full-stack developer in the Philippines. Laravel, PHP, MySQL, JavaScript, TypeScript. Open to full-time remote roles." width="800">
   </picture>
 </div>
 
@@ -16,7 +16,9 @@ Click a command to run it.
 
 <br>
 
-**Daily:** Laravel, PHP, MySQL, JavaScript, HTML/CSS, Git
+**Daily:** Laravel, PHP, MySQL, JavaScript, TypeScript, HTML/CSS, Git
+
+**Apps (mobile and desktop):** Ionic, Electron
 
 **Learning in public:** Docker, GitHub Actions, Pest tests, deploying on Linux
 
