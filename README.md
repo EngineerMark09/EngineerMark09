@@ -9,59 +9,50 @@ Fresh graduate, full-stack developer, looking for a **full-time remote** role. L
 
 [**markmingala.dev**](https://markmingala.dev) · [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com)
 
-**[Open the live terminal →](https://markmingala.dev/#terminal)** Type `help` there. Below is a quick preview of four commands.
+Click a command to run it.
 
 <details>
 <summary><code>$ skills</code></summary>
 
-```console
-$ skills
-daily     Laravel, PHP, MySQL, JavaScript, TypeScript, HTML/CSS, Git
-apps      Ionic, Electron
-learning  Docker, GitHub Actions, Pest tests, deploying on Linux
-```
+<br>
+
+**Daily:** Laravel, PHP, MySQL, JavaScript, TypeScript, HTML/CSS, Git
+
+**Apps (mobile and desktop):** Ionic, Electron
+
+**Learning in public:** Docker, GitHub Actions, Pest tests, deploying on Linux
 
 </details>
 
 <details>
 <summary><code>$ projects</code></summary>
 
-```console
-$ projects
-building now, one at a time. each ships with a live demo, tests and CI.
+<br>
 
-1  Nexus        Laravel app, being deployed
-2  Helpdesk     tickets, roles, SLA timers (Laravel, Livewire, Pest)
-3  Deploy docs  how I ship a Laravel app to a server, step by step
+Building these now, one at a time, each with a live demo, tests and CI:
 
-each one is added here when it is live.
-```
+1. **Nexus**: Laravel app, being deployed.
+2. **Helpdesk**: ticketing system with roles, SLA timers and an audit trail (Laravel, Livewire, Pest).
+3. **Deployment write-up**: how I ship a Laravel app to a server, step by step.
+
+Each one is added here when it is live.
 
 </details>
 
 <details>
 <summary><code>$ hire me</code></summary>
 
-```console
-$ hire me
-email  mingalamark26@gmail.com
-site   https://markmingala.dev
-```
+<br>
 
-[Email me](mailto:mingalamark26@gmail.com) · [Open the portfolio](https://markmingala.dev)
+Email [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com). The portfolio at [markmingala.dev](https://markmingala.dev) has the same terminal, with more commands.
 
 </details>
 
 <details>
 <summary><code>$ sudo hire me</code></summary>
 
-```console
-$ sudo hire me
-[sudo] password for recruiter: ********
-Nice try. Permission granted anyway.
-mingalamark26@gmail.com
-```
+<br>
+
+Nice try. Permission granted anyway: [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com)
 
 </details>
-
-The animation at the top is a recording. The real one runs on [markmingala.dev](https://markmingala.dev/#terminal), where you can also press **Ctrl+K** (or **Cmd+K**) from any part of the page.
