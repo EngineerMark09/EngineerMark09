@@ -9,7 +9,7 @@ Fresh graduate, full-stack developer, looking for a **full-time remote** role. L
 
 [**markmingala.dev**](https://markmingala.dev) · [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com)
 
-Click a command to run it.
+<p><code>$ help</code> &nbsp;<sub>click a command below to run it ↓</sub></p>
 
 <details>
 <summary><code>$ skills</code></summary>
