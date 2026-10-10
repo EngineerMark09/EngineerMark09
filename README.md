@@ -1,53 +1,54 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-    <img src="assets/terminal-light.svg" alt="Terminal: mark angelo mingala. Finishing my first real Laravel deploy, helpdesk app next. Looking for a full-time remote job." width="800">
+    <img src="assets/terminal-light.svg" alt="Terminal: Mark Angelo Mingala, full-stack developer in the Philippines. Laravel, PHP, MySQL, JavaScript, TypeScript. Open to full-time remote roles." width="800">
   </picture>
 </div>
 
-Hi, I'm Mark. Fresh grad from the Philippines. I write Laravel and JavaScript, and I'm looking for my first full-time remote job.
+Fresh graduate, full-stack developer, looking for a **full-time remote** role. Laravel first, and I can work across Cloud/DevOps, data and IT support. I work your team's hours.
 
-I'm new, so I'll skip the big claims. I read the docs and I ask before I guess.
+[**markmingala.dev**](https://markmingala.dev) · [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com)
 
-**[Poke at the live terminal →](https://markmingala.dev/#terminal)** (that one takes typing). The ones below are just for show.
+**[Open the live terminal →](https://markmingala.dev/#terminal)** Type `help` there. Below is a quick preview of four commands.
 
 <details>
-<summary><code>$ cat stack.txt</code></summary>
+<summary><code>$ skills</code></summary>
 
 ```console
-$ cat stack.txt
-laravel, php, mysql       what I reach for first
-javascript, typescript    ionic and electron when it's an app
-git                       every day
-docker, github actions    learning these. not claiming them yet
+$ skills
+daily     Laravel, PHP, MySQL, JavaScript, TypeScript, HTML/CSS, Git
+apps      Ionic, Electron
+learning  Docker, GitHub Actions, Pest tests, deploying on Linux
 ```
 
 </details>
 
 <details>
-<summary><code>$ ls projects/</code></summary>
+<summary><code>$ projects</code></summary>
 
 ```console
-$ ls projects/
-nexus/       laravel. getting it deployed for real
-helpdesk/    laravel + livewire. tickets and SLA timers. next up
+$ projects
+building now, one at a time. each ships with a live demo, tests and CI.
 
-$ cat README
-no live links yet. the first one lands here when it's up.
-my older repos are private for now.
+1  Nexus        Laravel app, being deployed
+2  Helpdesk     tickets, roles, SLA timers (Laravel, Livewire, Pest)
+3  Deploy docs  how I ship a Laravel app to a server, step by step
+
+each one is added here when it is live.
 ```
 
 </details>
 
 <details>
-<summary><code>$ mail mark</code></summary>
+<summary><code>$ hire me</code></summary>
 
 ```console
-$ mail mark
-mingalamark26@gmail.com
+$ hire me
+email  mingalamark26@gmail.com
+site   https://markmingala.dev
 ```
 
-[Email me](mailto:mingalamark26@gmail.com) · [markmingala.dev](https://markmingala.dev)
+[Email me](mailto:mingalamark26@gmail.com) · [Open the portfolio](https://markmingala.dev)
 
 </details>
 
@@ -56,8 +57,11 @@ mingalamark26@gmail.com
 
 ```console
 $ sudo hire me
-ok.
+[sudo] password for recruiter: ********
+Nice try. Permission granted anyway.
 mingalamark26@gmail.com
 ```
 
 </details>
+
+The animation at the top is a recording. The real one runs on [markmingala.dev](https://markmingala.dev/#terminal), where you can also press **Ctrl+K** (or **Cmd+K**) from any part of the page.
