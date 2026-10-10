@@ -1,17 +1,56 @@
-# Mark Mingala
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+    <img src="assets/terminal-light.svg" alt="Terminal: Mark Mingala, full-stack developer in the Philippines. Laravel, PHP, MySQL, JavaScript. Open to full-time remote roles." width="800">
+  </picture>
+</div>
 
-Full-stack developer (Laravel, PHP, JavaScript), fresh graduate from the Philippines, open to full-time remote roles. I work my team's hours.
+Fresh graduate, full-stack developer, looking for a **full-time remote** role. Laravel first, and I can work across Cloud/DevOps, data and IT support. I work your team's hours.
 
-**Working with:** Laravel · PHP · MySQL · JavaScript · HTML/CSS · Git · GitHub Actions · Docker
+[**markmingala.dev**](https://markmingala.dev) · [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com)
 
-## Selected work
+Click a command to run it.
 
-- **[Subnetting Tutor](https://engineermark09.github.io/Subnetting-Tutor-Web-App-V.2/)**: practice and step-by-step explanations for IPv4 subnetting. Plain JavaScript. ([code](https://github.com/EngineerMark09/Subnetting-Tutor-Web-App-V.2))
-- **[Feedback Wall](https://engineermark09.github.io/Feedback-Wall-App/)**: anonymous message wall on Supabase. ([code](https://github.com/EngineerMark09/Feedback-Wall-App))
-- **[ISU GWA Calculator](https://engineermark09.github.io/ISU-GWA-Calculator/)**: weighted-average calculator for students. ([code](https://github.com/EngineerMark09/ISU-GWA-Calculator))
+<details>
+<summary><code>$ skills</code></summary>
 
-More Laravel projects (helpdesk, deployed Nexus) are coming; I will add them here when they are live.
+<br>
 
-## Contact
+**Daily:** Laravel, PHP, MySQL, JavaScript, HTML/CSS, Git
 
-[mingalamark26@gmail.com](mailto:mingalamark26@gmail.com) · [markmingala.dev](https://markmingala.dev)
+**Learning in public:** Docker, GitHub Actions, Pest tests, deploying on Linux
+
+</details>
+
+<details>
+<summary><code>$ projects</code></summary>
+
+<br>
+
+Building these now, one at a time, each with a live demo, tests and CI:
+
+1. **Nexus**: Laravel app, being deployed.
+2. **Helpdesk**: ticketing system with roles, SLA timers and an audit trail (Laravel, Livewire, Pest).
+3. **Deployment write-up**: how I ship a Laravel app to a server, step by step.
+
+Each one is added here when it is live.
+
+</details>
+
+<details>
+<summary><code>$ hire me</code></summary>
+
+<br>
+
+Email [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com). The portfolio at [markmingala.dev](https://markmingala.dev) has the same terminal, with more commands.
+
+</details>
+
+<details>
+<summary><code>$ sudo hire me</code></summary>
+
+<br>
+
+Nice try. Permission granted anyway: [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com)
+
+</details>
