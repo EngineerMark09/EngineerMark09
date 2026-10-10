@@ -9,7 +9,7 @@ Fresh graduate, full-stack developer, looking for a **full-time remote** role. L
 
 [**markmingala.dev**](https://markmingala.dev) · [mingalamark26@gmail.com](mailto:mingalamark26@gmail.com)
 
-Click a command to run it.
+**[Open the live terminal →](https://markmingala.dev/#terminal)** Type `help` there. Below is a quick preview of four commands.
 
 <details>
 <summary><code>$ skills</code></summary>
@@ -64,4 +64,4 @@ mingalamark26@gmail.com
 
 </details>
 
-Want to type the commands yourself? The real terminal is on [markmingala.dev](https://markmingala.dev): press **Ctrl+K** (or **Cmd+K**) and try `help`.
+The animation at the top is a recording. The real one runs on [markmingala.dev](https://markmingala.dev/#terminal), where you can also press **Ctrl+K** (or **Cmd+K**) from any part of the page.
